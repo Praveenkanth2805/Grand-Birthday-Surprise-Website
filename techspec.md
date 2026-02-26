@@ -22,7 +22,7 @@ User Browser
      ↓
 React App (Vite)
      ↓
-React Router صفحات
+React Router Pages
      ↓
 3D Layer (React Three Fiber)
      ↓
