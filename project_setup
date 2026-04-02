@@ -1,0 +1,7 @@
+npm create vite@latest space-birthday -- --template react
+cd space-birthday
+npm install
+npm install @react-three/fiber @react-three/drei framer-motion zustand tailwindcss postcss autoprefixer react-router-dom
+npm install -D @types/three
+npm install -D tailwindcss@3.4.1 postcss autoprefixer
+npx tailwindcss init -p
